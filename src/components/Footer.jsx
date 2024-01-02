@@ -91,10 +91,10 @@ const Footer = () => {
 </div>
 <div className=' block md:hidden items-center uppercase'>
     <ul className='grid md:flex justify-center'>
-   <li className='m-4'>About</li> 
-   <li className='m-4'>Contact</li>
-   <li className='m-4'>Cart</li>   
-       <li className='m-4'>Privacy Policy</li> 
+   <li className='m-4'><Link to="/paths/">Home</Link></li> 
+   <li className='m-4'><Link to="/paths/institutions">Institutions</Link></li>
+   <li className='m-4'><Link to="/paths/careers">Careers</Link></li>   
+       <li className='m-4'><Link to="/paths/contact">Contact Us</Link></li> 
     </ul>
  </div>
 
