@@ -8,7 +8,7 @@ const Careers = () => {
         
         <div className=' bg-blue-700 w-full'>
 
-            <p className=' text-center font-bold text-5xl py-24 text-white'>
+            <p className=' mx-2 text-center font-bold text-5xl py-24 text-white'>
     Filter through the careers below.
             </p>
 

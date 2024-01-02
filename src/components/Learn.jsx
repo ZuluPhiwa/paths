@@ -3,7 +3,7 @@ import now from '../assets/graduation.jpg'
 
 const Learn = () => {
   return (
-    <div className=' mx-16 my-6 delay-[300ms] duration-[600ms] taos:translate-x-[-200px] taos:opacity-0'>
+    <div className='mx-8 md:mx-16 my-6 delay-[300ms] duration-[600ms] taos:translate-x-[-200px] taos:opacity-0'>
 
         <div className='grid gap-2 md:grid-cols-2'>
             <div>
